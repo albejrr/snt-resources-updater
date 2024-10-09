@@ -1,3 +1,3 @@
 CreateThread(function()
-    print('hw')
+    print('hwsadsadasdas')
 end)
