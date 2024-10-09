@@ -1,3 +1,3 @@
 CreateThread(function()
-    print('codigo novo :)')
+    print('codigo novo :) aaaa')
 end)
