@@ -2,5 +2,8 @@
     "test": {
         "storager.lua": "asdasdasd",
         "fxmanifest.lua": "dkosadas"
+    },
+    "test2": {
+        "sdada":"dasdas"
     }
 }
