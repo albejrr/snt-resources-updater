@@ -4,6 +4,7 @@
         "fxmanifest.lua": "dkosadas"
     },
     "test2": {
-        "sdada":"dasdas"
+        "sdada":"dasdas",
+        "sadsa":"sadas"
     }
 }
