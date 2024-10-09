@@ -1,7 +1,7 @@
 {
     "test": {
-        "storager.lua": "94e2641e0fa78f5d5ea87be47ba3d959bd6be4cb",
-        "fxmanifest.lua": "94e2641e0fa78f5d5ea87be47ba3d959bd6be4cb"
+        "storager.lua": "a51f346ad03be0807f27c5a01e2f4ded474d7209",
+        "fxmanifest.lua": "a51f346ad03be0807f27c5a01e2f4ded474d7209"
     },
     "test2": {
         "sdada":"dasdas",
